@@ -1,4 +1,6 @@
 apple
 orange
 grapes
-banana
+
+mango
+lemon
