@@ -5,3 +5,6 @@ banana
 watermelon
 dates
 litchie
+mango
+lemon
+
